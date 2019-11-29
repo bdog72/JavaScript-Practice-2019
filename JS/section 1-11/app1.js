@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 console.log(123);
 
 let shoppingList1 = ['cereal', 'cheese', 'ice'];
